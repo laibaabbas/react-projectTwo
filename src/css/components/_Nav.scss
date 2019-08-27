@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+a {
+    display: block;
+    position: relative;
+    color: #413e66;
+    padding: 10px 15px;
+    transition: 0.3s;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.bg-visible{
+    background-color: transparent;
+}

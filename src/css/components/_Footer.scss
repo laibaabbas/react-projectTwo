@@ -1,0 +1,108 @@
+#footer {
+    padding: 0 0 30px 0;
+    font-size: 14px;
+    background: #fff;
+}
+#footer .footer-top {
+    padding: 60px 0 30px 0;
+    background: #f5f8fd;
+
+}
+#footer .footer-top .footer-info {
+    margin-bottom: 30px;
+}
+#footer .footer-top .footer-newsletter {
+    margin-bottom: 30px;
+}
+#footer .footer-top .footer-info h3 {
+    font-size: 34px;
+    margin: 0 0 20px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    font-family: "Montserrat", sans-serif;
+    color: #413e66;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+#footer .footer-top .footer-info p {
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Montserrat", sans-serif;
+    color: #535074;
+}
+#footer .footer-top h4 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #413e66;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 10px;
+}
+#footer .footer-top .footer-newsletter input[type="email"] {
+    border: 0;
+    padding: 6px 8px;
+    width: 65%;
+    border: 1px solid #d9dde6;
+}
+#footer .footer-top .footer-newsletter input[type="submit"] {
+    background: #1bb1dc;
+    border: 1px solid #1bb1dc;
+    width: 35%;
+    padding: 6px 0;
+    text-align: center;
+    color: #fff;
+    transition: 0.3s;
+    cursor: pointer;
+}
+#footer .footer-top .footer-links {
+    margin-bottom: 30px;
+}
+#footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#footer .footer-top .footer-links ul li:first-child {
+    padding-top: 0;
+}
+
+#footer .footer-top .footer-links ul li {
+    padding: 8px 0;
+}
+
+#footer .footer-top .footer-links ul a {
+    color: #696592;
+    padding: 0;
+    font-weight: 300;
+}
+#footer .footer-top .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #1bb1dc;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+#footer .footer-top .form button[type="submit"] {
+    background: #1bb1dc;
+    border: 0;
+    border-radius: 3px;
+    padding: 8px 30px;
+    color: #fff;
+    transition: 0.3s;
+}
+
+#footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+    color: #535074;
+    font-size: 15px;
+}
